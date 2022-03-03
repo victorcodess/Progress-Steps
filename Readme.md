@@ -13,4 +13,4 @@ I learn about CSS animations and how to use active pseudo-classes to check when 
 
 #### JavaScript
 I learnt a lot about JavaScript DOM manipulations using query selctors and class/id selctors.
-I also learnt about event listeners, which were paramount in the development of this progress bar.  
+I also learnt about event listeners, which were used to check when the user clicks on the next/prev buttons.  
